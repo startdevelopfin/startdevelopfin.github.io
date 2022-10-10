@@ -24,5 +24,5 @@ struct StartdevelopfinGithubIo: Website {
 // This will generate your website using the built-in Foundation theme:
 try StartdevelopfinGithubIo().publish(
     withTheme: .myCustomTheme,
-    deployedUsing: .gitHub("stevenyuser/stevenyuser.github.io", useSSH: false)
+    deployedUsing: .gitHub("startdevelopfin/startdevelopfin.github.io", useSSH: false)
 )
