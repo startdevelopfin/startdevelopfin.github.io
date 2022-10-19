@@ -12,7 +12,7 @@ html {
 article img {
     max-width: 100%;
     display: block;
-    margin-left: auto;
+    margin-left: 0px;
     margin-right: auto;
     border-radius: 10px;
 }
@@ -38,6 +38,11 @@ body {
     min-height: 100%;
 
     padding-bottom: 6rem;
+}
+
+.left {
+  position: absolute;
+  left: 0px;
 }
 
 .wrapper {
