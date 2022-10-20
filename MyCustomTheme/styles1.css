@@ -40,11 +40,6 @@ body {
     padding-bottom: 6rem;
 }
 
-.left {
-  position: absolute;
-  left: 0px;
-}
-
 .wrapper {
     max-width: 900px;
     margin-left: auto;
