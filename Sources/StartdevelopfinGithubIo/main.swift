@@ -14,15 +14,15 @@ struct StartdevelopfinGithubIo: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
-    var name = "StartdevelopfinGithubIo"
-    var description = "A description of StartdevelopfinGithubIo"
+    var url = URL(string: "https://startdevelopfin.github.io")!
+    var name = "Start. Develop. Fin."
+    var description = "Enjoy weekly blog posts focused primarily on the Swift programming language. Be sure to check out the latest content to stay up to date. Thank you for reading!"
     var language: Language { .english }
-    var imagePath: Path? { nil }
+    var imagePath: Path? { Path("Images") }
 }
 
 // This will generate your website using the built-in Foundation theme:
 try StartdevelopfinGithubIo().publish(
     withTheme: .myCustomTheme,
-    deployedUsing: .gitHub("startdevelopfin/startdevelopfin.github.io", useSSH: false)
+    deployedUsing: .gitHub("startdevelopfin/startdevelopfin.github.io", branch: "live", useSSH: false)
 )

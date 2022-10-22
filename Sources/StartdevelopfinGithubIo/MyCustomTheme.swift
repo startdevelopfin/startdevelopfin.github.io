@@ -194,6 +194,7 @@ private struct SiteHeader<Site: Website>: Component {
     var selectedSelectionID: Site.SectionID?
 
     var body: Component {
+        
         Header {
             Wrapper {
                 Div {
@@ -258,30 +259,12 @@ private struct SiteFooter: Component {
         Footer {
             Wrapper {
                 Node.ul(
-                    .li(
-                        .a(
-                            .img(.class("github"), .src("/images/github.svg"), .title("GitHub")),
-                            .href("https://github.com/stevenyuser")
-                        )
-                    ),
-                    .li(
-                        .a(
-                            .img(.class("instagram"), .src("/images/instagram.svg"), .title("Instagram")),
-                            .href("https://www.instagram.com/stevenyuser/")
-                        )
-                    ),
-                    .li(
-                        .a(
-                            .img(.class("email"), .src("/images/email.svg"), .title("Email")),
-                            .href("mailto:stevenyuser@gmail.com")
-                        )
-                    ),
-                    .li(
-                        .a(
-                            .img(.class("rss"), .src("/images/rss.svg"), .title("RSS")),
-                            .href("/feed.rss")
-                        )
-                    )
+//                    .li(
+//                        .a(
+//                            .img(.class("github"), .src("/images/github.svg"), .title("GitHub")),
+//                            .href("https://github.com/startdevelopfin")
+//                        )
+//                    )
                 )
                 .class("icon")
                 Paragraph {
@@ -292,3 +275,30 @@ private struct SiteFooter: Component {
         }
     }
 }
+
+//var url = "https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/CardImage3.png?alt=media&token=74e5ec39-e269-4163-8e31-d54eb2491f37"
+
+
+//<!-- HTML Meta Tags -->
+//<title>DTC UB Coding 2022 | Start. Develop. Fin.</title>
+//<meta name="description" content="In this post, I reflect on my time instructing Denmark Technical College's coding class as a part of their Upward Bound summer enrichment program. I'll also explain how students with little to no coding experience leveraged the power of SwiftUI and Swift Playgrounds to build apps using an iPad (8 min read).">
+//
+//<!-- Facebook Meta Tags -->
+//<meta property="og:url" content="https://startdevelopfin.github.io/posts/first-post/">
+//<meta property="og:type" content="website">
+//<meta property="og:title" content="DTC UB Coding 2022 | Start. Develop. Fin.">
+//<meta property="og:description" content="In this post, I reflect on my time instructing Denmark Technical College's coding class as a part of their Upward Bound summer enrichment program. I'll also explain how students with little to no coding experience leveraged the power of SwiftUI and Swift Playgrounds to build apps using an iPad (8 min read).">
+//<meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/CardImage3.png?alt=media&token=74e5ec39-e269-4163-8e31-d54eb2491f37">
+//
+//<!-- Twitter Meta Tags -->
+//<meta name="twitter:card" content="summary_large_image">
+//<meta property="twitter:domain" content="startdevelopfin.github.io">
+//<meta property="twitter:url" content="https://startdevelopfin.github.io/posts/first-post/">
+//<meta name="twitter:title" content="DTC UB Coding 2022 | Start. Develop. Fin.">
+//<meta name="twitter:description" content="In this post, I reflect on my time instructing Denmark Technical College's coding class as a part of their Upward Bound summer enrichment program. I'll also explain how students with little to no coding experience leveraged the power of SwiftUI and Swift Playgrounds to build apps using an iPad (8 min read).">
+//<meta name="twitter:image" content="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/CardImage3.png?alt=media&token=74e5ec39-e269-4163-8e31-d54eb2491f37">
+//
+//<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+      
+
+
