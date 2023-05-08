@@ -4,6 +4,7 @@ description: In this post, I reflect on the experience attending my first Swift 
 image: Images/deepDishHeader.png
 tags: Diversity, Swift, Deep Dish Swift
 ---
+
 # My First Conference 🥳
 
 <p>Swift developer conferences provide valuable opportunities for current and aspiring software engineers to get ahead of the curve in app development. These events typically occur in various locations across the globe. But due to the sudden onset of the Covid-19 pandemic, many were relegated to remote experiences instead. These conferences offer a platform to share the latest technologies and techniques by bringing together the brightest minds in the field to share their expertise. Industry leaders, speakers, and attendees can use the forum to present new ideas to foster collaboration within the community.</p>
