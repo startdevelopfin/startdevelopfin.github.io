@@ -2,7 +2,7 @@
 date: 2023-06-17 14:55
 description: In this post, I reflect on my first speaking engagement at Tennesee State University as a part of the HBCU C2 Student Leadership Conference (2 min read).
 image: Images/SpeakerCredential.png
-tags: HBCU C2, Swift Coding Clubs, By Rule
+tags: Swift Coding Clubs, By Rule
 ---
 # My First Speaking Engagement 🎙️
   <div class="shadow p-4 mb-4 bg-white"><p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FTalkPoster.png?alt=media&token=dbb47371-1dbf-46c3-a55c-c3c2173afb9c" alt="Speaker Time Photo"/></p></div>
