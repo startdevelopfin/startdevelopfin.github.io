@@ -72,7 +72,7 @@ tags: HBCU C2, Swift Coding Clubs, By Rule
 <p><blockquote><i>"Photo taken at Tennesee State University"</i></blockquote></p>
 
 
-<p>The conference allowed me to meet a diverse group of students, program managers, engineers and more. For nearly an hour, I spoke candidly about my journey learning Swift, becoming a software engineer, and implored listners to look for opportunites to mentor the next generation. The positive feedback I received at various points of the conference was very encouraging. I'm definitely looking forward to my next speaking engagement!</p>
+<p>The conference allowed me to meet a diverse group of students, program managers, engineers and more. For nearly an hour, I spoke candidly about my journey learning Swift, becoming a software engineer, and implored listners to consider joining or creating a Swift Coding Club at their respective institutions. Over the course of three days, I was very encouraged by the positive feedback I receieved from attedees at the Student Leadership Conference. I'm definitely looking forward to my next speaking engagement!</p>
 
 
 <br></br>
