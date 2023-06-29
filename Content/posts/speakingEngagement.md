@@ -73,4 +73,3 @@ tags: Swift Coding Clubs, By Rule
 <p>The conference allowed me to meet a diverse group of students, program managers, engineers and more. For nearly an hour, I spoke candidly about my journey learning Swift, becoming a software engineer, and implored listners to consider joining or creating a Swift Coding Club at their respective institutions. Over the course of three days, I was very encouraged by the positive feedback I receieved from attedees at the Student Leadership Conference. I'm definitely looking forward to my next speaking engagement!</p>
 
 <br></br>
-
