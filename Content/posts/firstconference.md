@@ -1,7 +1,7 @@
 ---
 date: 2023-05-07 14:00
 description: In this post, I reflect on the experience attending my first Swift conference and detail the potential impact of these community driven events for aspiring iOS developers (4 min read).
-image: Images/deepDishHeader.png
+image: Images/DeepDishHeader.png
 tags: Diversity, Swift, Deep Dish Swift
 ---
 
