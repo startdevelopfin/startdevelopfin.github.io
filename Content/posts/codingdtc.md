@@ -4,7 +4,7 @@ description: In this post, I reflect on my time instructing Denmark Technical Co
 image: Images/CodingHeader.png
 tags: Swift Playgrounds, iPad, SwiftUI
 ---
-# DTC UB Coding 2022
+# DTC UB Coding 2022 👨🏿‍💻
 
 ### Brief Introduction
 

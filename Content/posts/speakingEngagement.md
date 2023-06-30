@@ -1,7 +1,7 @@
 ---
 date: 2023-06-17 14:55
 description: In this post, I reflect on my first speaking engagement at Tennesee State University as a part of the HBCU C2 Student Leadership Conference (2 min read).
-image: Images/SpeakerCredential.png
+image: Images/SpeakerStage.png
 tags: Swift Coding Clubs, By Rule
 ---
 # My First Speaking Engagement 🎙️
@@ -29,7 +29,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of Speaker List"</i></blockquote></p>
 
-<p>I told my story from the beginning to help connect the dots for folks wondering how I arrived at this point. My goal was to encourage the audience to explore Swift and to show that joining or creating a Swift Coding Club is a great way to start their journeys. To learn more about how you can join or create a Swift Coding Club, click here: <a href="https://www.apple.com/education/docs/swift-club-playgrounds.pdf">Link to Swift Coding Club PDF</a></p><br></br>
+<p>I told my story from the beginning to help connect the dots for folks wondering how I arrived at this point. My goal was to encourage the audience to explore Swift and to show that joining or creating a Swift Coding Club is a great way to start their journeys. To learn more about how you can join or create a Swift Coding Club, click here: <a href="https://www.apple.com/education/docs/swift-club-playgrounds.pdf">Swift Coding Club PDF</a></p><br></br>
 
 <div class="shadow p-4 mb-4 bg-white"><p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FDTC%20Camp%20Innovation.png?alt=media&token=0b120c36-3c52-4b18-87d9-3c79b7a37199" alt="Poster"/></p></div>
 
@@ -43,7 +43,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of speaker and audience"</i></blockquote></p>
 
-<p>During my talk I shared the ups and downs learners may face while traversing UIKit and SwiftUI. I learned just enough to bring my passion project to life. Attendees were given a sneak peak of By Rule (SwiftUI version) and some of the updates to come this September.</p><br></br>
+<p>During my talk I shared the ups and downs learners may face while traversing UIKit and SwiftUI. It took some patience, but I learned just enough Swift to bring my passion project to life. Attendees were given a sneak peak of By Rule (SwiftUI version) and some of the updates to come this September.</p><br></br>
 
 <h3>By Rule 🏀</h3>
 
@@ -70,6 +70,6 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo taken at Tennesee State University"</i></blockquote></p>
 
-<p>The conference allowed me to meet a diverse group of students, program managers, engineers and more. For nearly an hour, I spoke candidly about my journey learning Swift, becoming a software engineer, and implored listners to consider joining or creating a Swift Coding Club at their respective institutions. Over the course of three days, I was very encouraged by the positive feedback I receieved from a numbver of attendees at the Student Leadership Conference. I'm definitely looking forward to my next speaking engagement!</p>
+<p>The conference allowed me to meet a diverse group of students, program managers, engineers and more. For nearly an hour, I spoke candidly about my journey learning Swift, becoming a software engineer, and implored listners to consider joining or creating a Swift Coding Club at their respective institutions. Over the course of three days, I was very encouraged by the positive feedback I receieved from a numbver of attendees at the Student Leadership Conference. I'm thankful for the opportunity and will definitely be looking forward to my next speaking engagement!</p>
 
 <br></br>
