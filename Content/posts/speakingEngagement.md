@@ -51,7 +51,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of By Rule Banner"</i></blockquote></p>
 
-<p>By Rule is an iOS app and basketball rules companion. It is the most robust college basketball rules app ever!</p>
+<p>By Rule is an iOS app and the ultimate basketball rules companion. It is the most robust college basketball rules app ever!</p>
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FByRulePreview1.png?alt=media&token=a2813d49-4e82-4023-8412-22f0eca3f831" alt="By Rule Preview 1"/></p>
 
