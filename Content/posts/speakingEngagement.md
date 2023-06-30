@@ -9,7 +9,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of Keynote Slide"</i></blockquote></p>
 
-<p>In this blog post, I will take you through the highlights from my first speaking engagement, leaving a lasting impression on each member of the audience and shaping my path as a confident communicator.</p><br></br>
+<p>In this blog post, I will take you through the highlights from my first speaking engagement, leaving a lasting impression on the audience and shaping my path as a confident communicator.</p><br></br>
 
 <h3>HBCU C2 Student Leadership Conference 🎉</h3>
 
@@ -21,7 +21,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of Tennesee State University"</i></blockquote></p>
 
-<p>Tennessee State University is committed to connecting Historically Black Colleges and Universities to the diverse applications of digital technology through their partnership with Apple. By design, the C2 Student Leadership Conference provided an opportunity for students to network with students at the various institutions while building relationships with Innovation Team faculty. The photo above does not do the beautiful campus any justice so you'll have to visit to check it out for yourself! </p><br></br>
+<p>Tennessee State University is committed to connecting Historically Black Colleges and Universities to the diverse applications of digital technology through its partnership with Apple. By design, the C2 Student Leadership Conference helped students to network with students at various institutions while building relationships with the Innovation Team faculty. The photo above does not do the beautiful campus any justice. You'll have to visit to check it out yourself!</p><br></br>
 
 <h3>Swift Coding Clubs ⚡️</h3>
 
@@ -35,7 +35,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo from Denmark Technical College Summer 21' Coding Cohort "</i></blockquote></p>
 
-<p>I also spoke about the importance of being imaginative, optimistic, and persistent. Being technical, creative, and solution oriented is equally important. Eveyone can code, and luckily, getting started with SwiftUI is easier than ever thanks to the wonders of Swift Playgrounds. </p><br></br>
+<p>I also spoke about the importance of being imaginative, optimistic, and persistent. Being technical, creative, and solution-oriented is just as important. Everyone can code, and luckily, getting started with SwiftUI is easier than ever due to the wonders of Swift Playgrounds. </p><br></br>
 
 <h3>I have an idea! 💡</h3>
 
@@ -43,7 +43,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of speaker and audience"</i></blockquote></p>
 
-<p>During my talk I shared the ups and downs learners may face while traversing UIKit and SwiftUI. It took some patience, but I learned just enough Swift to bring my passion project to life. Attendees were given a sneak peak of By Rule (SwiftUI version) and some of the updates to come this September.</p><br></br>
+<p>During my talk, I shared the ups and downs learners may face while traversing UIKit and SwiftUI. Although it took a lot of patience,  I learned enough Swift to bring my passion project to life. Attendees received a sneak peek of By Rule (SwiftUI version) and some new features coming this September.</p><br></br>
 
 <h3>By Rule 🏀</h3>
 
@@ -51,13 +51,13 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of By Rule Banner"</i></blockquote></p>
 
-<p>By Rule is an iOS app and basketball rules companion. It is the most robust rules learning app ever! </p>
+<p>By Rule is an iOS app and basketball rules companion. It is the most robust college basketball rules app ever!</p>
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FByRulePreview1.png?alt=media&token=a2813d49-4e82-4023-8412-22f0eca3f831" alt="By Rule Preview 1"/></p>
 
 <p><blockquote><i>"Photo of By Rule Preview 1"</i></blockquote></p>
 
-<p>Optimize your rules learning experience. Learning modules for Coaches, Players, Fans, and Officials.</p>
+<p>Optimize your rules-learning experience with modules for Coaches, Players, Fans, and Officials.</p>
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FByRulePreview2.png?alt=media&token=b42435c1-ca50-48e4-b38d-d7fb4fdd1527" alt="By Rule Preview 2"/></p>
 
@@ -71,6 +71,6 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo taken at Tennesee State University"</i></blockquote></p>
 
-<p>The conference allowed me to meet a diverse group of students, program managers, engineers and more. For nearly an hour, I spoke candidly about my journey learning Swift, becoming a software engineer, and implored listners to consider joining or creating a Swift Coding Club at their respective institutions. Over the course of three days, I was very encouraged by the positive feedback I receieved from a numbver of attendees at the Student Leadership Conference. I'm thankful for the opportunity and will definitely be looking forward to my next speaking engagement!</p>
+<p>The conference allowed me to meet a diverse group of students, program managers, engineers, and more. For nearly an hour, I spoke candidly about my journey learning the Swift programming language, becoming a software engineer, and imploring all those listening to join or create a Swift Coding Club at their respective institutions. Over the following day, I was very encouraged by the positive feedback from several attendees at the Student Leadership Conference. I'm thankful for the opportunity and will be looking forward to my next speaking engagement!</p>
 
 <br></br>
