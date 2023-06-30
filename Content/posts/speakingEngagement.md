@@ -35,7 +35,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo from Denmark Technical College Summer 21' Coding Cohort "</i></blockquote></p>
 
-<p>I also spoke about the importance of being imaginative, optimistic, and persistent. Being technical, creative, and solution-oriented is just as important. Everyone can code, and luckily, getting started with SwiftUI is easier than ever due to the wonders of Swift Playgrounds. </p><br></br>
+<p>Being technical, creative, and solution-oriented is important. But I also spoke about the importance of being imaginative, optimistic, and persistent. Everyone can code, and luckily, getting started with SwiftUI is easier than ever due to the wonders of Swift Playgrounds. </p><br></br>
 
 <h3>I have an idea! 💡</h3>
 
@@ -43,7 +43,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of speaker and audience"</i></blockquote></p>
 
-<p>During my talk, I shared the ups and downs learners may face while traversing UIKit and SwiftUI. Although it took a lot of patience,  I learned enough Swift to bring my passion project to life. Attendees received a sneak peek of By Rule (SwiftUI version) and some new features coming this September.</p><br></br>
+<p>During my talk, I shared the challenges and obstacles I faced while traversing UIKit and SwiftUI. Although it took a lot of patience,  I learned enough Swift to bring my passion project to life. Attendees received a sneak peek of By Rule (SwiftUI version) and some new features coming this September.</p><br></br>
 
 <h3>By Rule 🏀</h3>
 
