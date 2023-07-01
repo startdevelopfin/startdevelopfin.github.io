@@ -43,7 +43,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of speaker and audience"</i></blockquote></p>
 
-<p>During my talk, I shared the challenges and obstacles I faced while traversing UIKit and SwiftUI. Although it took a lot of patience,  I was able to successfully build and launch my own app to the store. Attendees received a sneak peek of By Rule (SwiftUI version) and some new features coming this September.</p><br></br>
+<p>During the talk, I shared the challenges and obstacles I faced while traversing UIKit and SwiftUI. Although it took a lot of patience,  I was able to successfully build and launch my own app to the store! Attendees received a sneak peek of By Rule (SwiftUI version) and some new features coming this September.</p><br></br>
 
 <h3>By Rule 🏀</h3>
 
