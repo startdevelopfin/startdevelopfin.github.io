@@ -23,7 +23,6 @@ tags: Swift Coding Clubs, By Rule
 
 <p>Tennessee State University is committed to connecting Historically Black Colleges and Universities to the diverse applications of digital technology through its partnership with Apple. By design, the <a href="https://www.hbcuc2.org/content.aspx?page_id=0&club_id=374012">HBCU C²</a> Student Leadership Conference helped students to network with students at various institutions while building relationships with the Innovation Team faculty. The photo above does not do the beautiful campus any justice. You'll have to visit to check it out yourself!</p><br></br>
 
-
 <h3>Swift Coding Clubs ⚡️</h3>
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FSpeakerBanner.png?alt=media&token=5ec03dc8-09a4-46d8-a4ff-e4d0505c3691" alt="Speaker Time Photo"/></p>
