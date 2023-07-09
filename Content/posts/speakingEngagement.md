@@ -15,13 +15,14 @@ tags: Swift Coding Clubs, By Rule
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FConferencePoster.png?alt=media&token=109c73ea-dc26-4cfb-a355-738382d3c217" alt="Conference Poster"/></p>
 
-<p<blockquote><i>"C-squared HBCUs engage in this effort with key industry partners so that our contribution leads to a more skilled, diverse workforce pipeline for high-demand technical and creative careers"</i></blockquote></p><br></br>
+<p<blockquote><i>"The Recommit, Reconnect, Refresh, <a href="https://www.hbcuc2.org/content.aspx?page_id=5&club_id=374012&item_id=89609&">Student Leadership Conference</a> will increase knowledge and use of Apple devices, tools, and resources to enhance student development for the complexity of modern digital environments."</i></blockquote></p><br></br>
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FCollege.png?alt=media&token=0edd87e7-5fef-4892-b5cf-d8210a26144b" alt="Tennesee State University Photo"/></p>
 
 <p><blockquote><i>"Photo of Tennesee State University"</i></blockquote></p>
 
-<p>Tennessee State University is committed to connecting Historically Black Colleges and Universities to the diverse applications of digital technology through its partnership with Apple. By design, the C2 Student Leadership Conference helped students to network with students at various institutions while building relationships with the Innovation Team faculty. The photo above does not do the beautiful campus any justice. You'll have to visit to check it out yourself!</p><br></br>
+<p>Tennessee State University is committed to connecting Historically Black Colleges and Universities to the diverse applications of digital technology through its partnership with Apple. By design, the <a href="https://www.hbcuc2.org/content.aspx?page_id=0&club_id=374012">HBCU C²</a> Student Leadership Conference helped students to network with students at various institutions while building relationships with the Innovation Team faculty. The photo above does not do the beautiful campus any justice. You'll have to visit to check it out yourself!</p><br></br>
+
 
 <h3>Swift Coding Clubs ⚡️</h3>
 
@@ -51,7 +52,7 @@ tags: Swift Coding Clubs, By Rule
 
 <p><blockquote><i>"Photo of By Rule banner"</i></blockquote></p>
 
-<p>By Rule is an iOS app and the ultimate basketball rules companion. It is the most robust college basketball rules app ever!</p>
+<p><a href="https://apps.apple.com/us/app/by-rule/id1532845521">By Rule</a> is an iOS app and the ultimate basketball rules companion. It is the most robust college basketball rules app ever!</p>
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/FirstTalk%2FBRPreview1.png?alt=media&token=123710df-16cd-4a05-bd41-e78be59bc037" alt="By Rule Preview 1"/></p>
 
