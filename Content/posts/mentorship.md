@@ -9,14 +9,14 @@ tags: Mentorship, Community, NSSpain
 
 <p>In our rapidly changing world, where technology and the economy are evolving at breakneck speed, mentorship stands out as a powerful guide—helping us navigate complexities, make strategic decisions, and achieve goals we once thought were out of reach</p>
 
-<p>In this post, we’ll spotlight community leaders making an impact and explore how you can leverage mentorship—whether you’re seeking a mentor, looking to become one, or simply curious about how it fits into your career path.</p>
+<p>In this post, we’ll spotlight community leaders making an impact and explore how you can leverage mentorship—whether you’re seeking a mentor, looking to become one, or simply curious about how it fits into your career path.</p><br></br>
 
 <h4>Shoutout to the team at <a href="https://2024.nsspain.com">NSSpain</a> for giving me the opportunity to share my thoughts and for the awesome conference!</h4>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FNSSPAIN.png?alt=media&token=ae0e2de6-769f-4bd3-aaef-e5a0096993fb" alt="NSSPAIN Banner" style="height: 400px;"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FNSSPAIN.png?alt=media&token=ae0e2de6-769f-4bd3-aaef-e5a0096993fb" alt="NSSPAIN Banner" style="height: 300px;"/>
 <br></br>
 
 <h2>Seeking Mentorship Opportunities 👀</h2>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FKobeJordan.png?alt=media&token=6f6ab9d4-a41f-42f6-a693-dfe8e727b0de" alt="Kobe and Jordan" style="height: 400px;"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FKobeJordan.png?alt=media&token=6f6ab9d4-a41f-42f6-a693-dfe8e727b0de" alt="Kobe and Jordan" style="height: 300px;"/>
 
 <p>Mentorship is a powerful tool whose success relies on clear communication and understanding. Often, the terms and expectations of a mentorship relationship are not clearly defined, and that’s where things can get tricky.</p>
 
@@ -59,7 +59,7 @@ tags: Mentorship, Community, NSSpain
 <h2>Community Leaders 🏆</h2>
 
 <h3>Danielle Lewis ⚡️</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FDanielleWorkshop.png?alt=media&token=8404fa9e-9079-4a6d-abc1-b55433e060ad" alt="Photo of Danielle Lewis" style="height: 300px;"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FDanielleWorkshop.png?alt=media&token=8404fa9e-9079-4a6d-abc1-b55433e060ad" alt="Photo of Danielle Lewis" style="height: 200px;"/>
 <p><blockquote><i>"Photo of Danielle Lewis"</i></blockquote></p>
 
 <p>Danielle is a young go-getter with eight apps published already—five on Vision Pro and three on iOS. But beyond the impressive numbers, it's her journey and dedication that truly set her apart.</p>
@@ -69,7 +69,7 @@ tags: Mentorship, Community, NSSpain
 <p>She’s a passionate developer who isn’t just chasing personal success; she’s actively giving back, helping others, and building a network of mentorship and collaboration</p><br></br>
 
 <h3>Emad Ghorbaninia ⚡️</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FEmad.png?alt=media&token=bec34e3f-449e-48da-b8fa-dc3d020d220b" alt="Photo of Emad Ghorbaninia" style="height: 300px;"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FEmad.png?alt=media&token=bec34e3f-449e-48da-b8fa-dc3d020d220b" alt="Photo of Emad Ghorbaninia" style="height: 200px;"/>
 <p><blockquote><i>"Photo of Emad Ghorbaninia"</i></blockquote></p>
 
 <p>Emad is a seasoned Lead iOS Engineer with over ten years of experience. He excels in both Objective-C and Swift. Beyond his technical prowess, Emad is passionate about community and has dedicated much of his time to mentoring others. He's been mentoring roughly six people, providing guidance and support to those looking to grow in their careers.</p>
@@ -79,7 +79,7 @@ tags: Mentorship, Community, NSSpain
 <p>He has since started his own company and is organizing an iOS developer conference with Try! Swift and Deep Dish — Maize Conf – where folks can gather, refresh, and learn. It’s a powerful reminder that mentorship is not just about skills; it’s also about connection, support, and the shared human experience.</p><br></br>
 
 <h3>Vui Nguyen ⚡️</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FVuiN.png?alt=media&token=c8795095-233d-452a-833e-3d30c6ace988" alt="Photo of Vui Nguyen" style="height: 300px;"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FVuiN.png?alt=media&token=c8795095-233d-452a-833e-3d30c6ace988" alt="Photo of Vui Nguyen" style="height: 200px;"/>
 <p><blockquote><i>"Photo of Vui Nguyen"</i></blockquote></p>
 
 <p>I want to spotlight a leader whose journey exemplifies resilience, innovation, and the power of mentorship—someone who adapted to change and leveraged it to inspire others. Take a moment to reflect on the incredible work of Vui Nguyen, whose story is a testament to the difference one person can make</p>
@@ -89,7 +89,7 @@ tags: Mentorship, Community, NSSpain
 <p>Vui is very clear about the impact Women Who Code had on her and others before it closed this April: "It helped me fulfill my dream of building the world that I want to live in. Through my involvement with WWCode, I helped women become technical speakers, leaders, maintainers, and contributors to open-source software, and software engineers. To paraphrase the mission of WWCode, I, and many others, have been empowered to excel in our technology careers.</p><br></br>
 
 <h3>Conclusion 💭</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FNSSPAINTALK.png?alt=media&token=83a49be1-fe3c-47b0-b495-c6dda7cfc845" alt="Daniel Aupont, NSSpain" style="height: 400px;"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FNSSPAINTALK.png?alt=media&token=83a49be1-fe3c-47b0-b495-c6dda7cfc845" alt="Daniel Aupont, NSSpain" style="height: 300px;"/>
 
 <p>Leadership is hard, at every level. Think about how you can leverage your role—whether as a mentor or a mentee—to make a meaningful impact on the Swift community. How can you use your skills, knowledge, and experiences to support others, foster inclusivity, and contribute to the growth of the broader tech community? The answer may change your perspective or career.</p>
 
