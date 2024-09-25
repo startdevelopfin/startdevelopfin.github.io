@@ -1,10 +1,6 @@
 ---
 date: 2024-09-23 14:00
-<<<<<<< Updated upstream
-description: In this post, I reflect on the the power of Mentorship using excerpts from my second iOS Conference Talk -- Chart your iOS Course, Mentorship as a Guiding Force (4 min read).
-=======
-description: In this post, I reflect on the the power of Mentorship using excerpts from my second iOS Conference Talk -- Chart your iOS Course: Mentorship as a Guiding Force (4 min read).
->>>>>>> Stashed changes
+description: In this post, I reflect on the the power of Mentorship using excerpts from my second iOS Conference Talk (4 min read).
 image: Images/KeynoteCard.png
 tags: Mentorship, Community, NSSpain
 ---
