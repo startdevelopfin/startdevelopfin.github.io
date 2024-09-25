@@ -1,6 +1,6 @@
 ---
-date: 2022-09-23 14:00
-description: In this post, I reflect on the the power of Mentorship using excerpts from my second iOS Conference Talk -- Chart you iOS (4 min read).
+date: 2024-09-23 14:00
+description: In this post, I reflect on the the power of Mentorship using excerpts from my second iOS Conference Talk -- Chart your iOS Course, Mentorship as a Guiding Force (4 min read).
 image: Images/KeynoteCard.png
 tags: Mentorship, Community, NSSpain
 ---
