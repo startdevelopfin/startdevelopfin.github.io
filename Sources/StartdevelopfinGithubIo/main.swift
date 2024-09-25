@@ -16,7 +16,7 @@ struct StartdevelopfinGithubIo: Website {
     // Update these properties to configure your website:
     var url = URL(string: "https://startdevelopfin.github.io")!
     var name = "Start. Develop. Fin."
-    var description = "Enjoy weekly blog posts focused primarily on the Swift programming language. Be sure to check out the latest content to stay up to date. Thank you for reading!"
+    var description = "Enjoy blog posts focused primarily on the Swift programming language. Be sure to check out the latest content to stay up to date. Thank you for reading!"
     var language: Language { .english }
     var imagePath: Path? { Path("Images") }
 }
