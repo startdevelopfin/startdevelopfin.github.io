@@ -9,18 +9,20 @@ tags: Mentorship, Community, NSSpain
 
 <p>In our rapidly changing world, where technology and the economy are evolving at breakneck speed, mentorship stands out as a powerful guide—helping us navigate complexities, make strategic decisions, and achieve goals we once thought were out of reach</p>
 
-<p>In this post, we’ll spotlight community leaders making an impact and explore how you can leverage mentorship—whether you’re seeking a mentor, looking to become one, or simply curious about how it fits into your career path.</p><br></br>
+<p>In this post, we’ll spotlight community leaders making an impact and explore how you can leverage mentorship—whether you’re seeking a mentor, looking to become one, or simply curious about how it fits into your career path.</p>
 
-<h4>Shoutout to the team at <a href="https://2024.nsspain.com">NSSpain</a> for giving me the opportunity to share my thoughts and for the awesome conference!</h4>
+<h4>Shoutout to the team at <a href="https://2024.nsspain.com">NSSpain</a> for organizing an awesome conference and allowing me the opportunity to share my latest thoughts with the broader Swift community.</h4>
 <img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FNSSPAIN.png?alt=media&token=ae0e2de6-769f-4bd3-aaef-e5a0096993fb" alt="NSSPAIN Banner"/>
 <br></br>
 
 <h2>Seeking Mentorship Opportunities 👀</h2>
 <img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FKobeJordan.png?alt=media&token=6f6ab9d4-a41f-42f6-a693-dfe8e727b0de" alt="Kobe and Jordan"/>
 
-<p>Mentorship is a powerful tool whose success relies on clear communication and understanding. Often, the terms and expectations of a mentorship relationship are not clearly defined, and that’s where things can get tricky.</p>
+<p>Mentorship is a powerful tool whose success relies on clear communication and understanding. Often, the terms and expectations of a mentorship relationship are not clearly defined, and that’s where things can get tricky.</p><br></br>
 
-<p>Misunderstandings or lack of clarity can affect how productive or beneficial the relationship will be. To illustrate this, heres a list of key factors both mentors and mentees should think critically about before jumping in</p>
+<h3>4 Key Factors 🔑</h3>
+
+<p>Misunderstandings or lack of clarity can affect how productive or beneficial the relationship will be. Carefully consider these key factors before jumping in:</p>
 
 <li><h4>Format ⚙️</h4></li>
 
@@ -28,18 +30,19 @@ tags: Mentorship, Community, NSSpain
 
 <li><h4>Time Committment ⏰</h4></li>
 
-<p>Time commitment is another big factor that can make or break a mentorship relationship. How much time are you willing to commit, and what frequency works for both parties? You might want something structured like weekly meetings. Perhaps you need something more flexible. But unless that’s agreed upon, frustration or expectations can build.</p>
+<p>Time commitment is another big factor that can make or break a mentorship relationship. How much time are you willing to commit, and what frequency works for both parties? You might want something structured like weekly meetings. Perhaps you need something more flexible.</p>
 <li><h4>Desired Outcome 💡</h4></li>
 
-<p>Are you interested in fostering a community through peer mentorship, where knowledge-sharing is the primary goal? Are you looking for career progression or personal development? Maybe you are seeking hands-on guidance to grow technical skills. The beauty of mentorship lies in its ability to fit the goals and needs of both individuals involved</p>
+<p>Are you interested in fostering a community through peer mentorship, where knowledge-sharing is the primary goal? Are you looking for career progression or personal development? Maybe you are seeking hands-on guidance to grow technical skills.</p>
 
 <li><h4>Resources you Have & Need 📓</h4></li>
 
-<p>Do you have the tools and equipment to make the mentorship productive, like development tools, books, or online courses? And perhaps even more importantly—what resources do you still need access to? By outlining what you have and need, it becomes clear what gaps your mentor can help you fill and how they can support your learning journey</p><br></br>
+<p>Do you have the resources to make the mentorship productive, like development tools, books, or some meeting space? And perhaps even more importantly—what resources do you still need access to?</p><br></br>
 
-<h3>Mentorship Explained 💎</h3>
 
-<p>There are countless reasons to become a mentor or a mentee. The beauty of mentorship lies in its ability to fit the goals and needs of both individuals involved. Here are three specific examples.</p>
+<h2>Mentorship Example Forms 💎</h2>
+
+<p>There are countless reasons to become a mentor or a mentee.  By outlining what you have and need, it becomes clear what gaps your mentor can help you fill and how they can support your learning journey. The beauty of mentorship lies in its ability to fit the goals and needs of both individuals involved. Here are three common examples illustrated using mock forms:</p>
 
 <h4>Example 1</h4>
 <img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FExampleOne.png?alt=media&token=ce2450ee-019f-4e07-acf4-bd6c0a20ff94" alt="Mentorship Example 1" style="height: 400px;"/>
@@ -57,10 +60,13 @@ tags: Mentorship, Community, NSSpain
 <p>Finally, we have a more technical-focused mentorship. In this example, the mentee with two years of experience seeks to enhance their coding skills through regular, weekly one-on-one sessions. Whether learning new development tools or refining code quality, technical mentorship offers a focused environment for personal growth and skill-building.</p><br></br>
 
 <h2>Community Leaders 🏆</h2>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FClover.png?alt=media&token=c0a4d9aa-84ed-4a93-b8e1-5ea7a7359457" alt="Clover, One Piece"/>
+
+<p>These examples illustrate just a few of the many paths mentorship can take. There are opportunities to pay it forward, help someone land their first remote job, or even mentor others to reinforce what you already know. For some, it may be about creating a better future for the next generation, like helping your daughters or women in your community enter the tech industry. Ultimately, mentorship is about impact—on both sides, building relationships, sharing knowledge, and supporting each other on the journey.
+</p><br></br>
 
 <h3>Danielle Lewis ⚡️</h3>
 <img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FDanielleWorkshop.png?alt=media&token=8404fa9e-9079-4a6d-abc1-b55433e060ad" alt="Photo of Danielle Lewis" style="height: 200px;"/>
-<p><blockquote><i>"Photo of Danielle Lewis"</i></blockquote></p>
 
 <p>Danielle is a young go-getter with eight apps published already—five on Vision Pro and three on iOS. But beyond the impressive numbers, it's her journey and dedication that truly set her apart.</p>
 
@@ -70,7 +76,6 @@ tags: Mentorship, Community, NSSpain
 
 <h3>Emad Ghorbaninia ⚡️</h3>
 <img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FEmad.png?alt=media&token=bec34e3f-449e-48da-b8fa-dc3d020d220b" alt="Photo of Emad Ghorbaninia" style="height: 150px;"/>
-<p><blockquote><i>"Photo of Emad Ghorbaninia"</i></blockquote></p>
 
 <p>Emad is a seasoned Lead iOS Engineer with over ten years of experience. He excels in both Objective-C and Swift. Beyond his technical prowess, Emad is passionate about community and has dedicated much of his time to mentoring others. He's been mentoring roughly six people, providing guidance and support to those looking to grow in their careers.</p>
 
@@ -80,7 +85,6 @@ tags: Mentorship, Community, NSSpain
 
 <h3>Vui Nguyen ⚡️</h3>
 <img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FVuiN.png?alt=media&token=c8795095-233d-452a-833e-3d30c6ace988" alt="Photo of Vui Nguyen" style="height: 150px;"/>
-<p><blockquote><i>"Photo of Vui Nguyen"</i></blockquote></p>
 
 <p>I want to spotlight a leader whose journey exemplifies resilience, innovation, and the power of mentorship—someone who adapted to change and leveraged it to inspire others. Take a moment to reflect on the incredible work of Vui Nguyen, whose story is a testament to the difference one person can make</p>
 
