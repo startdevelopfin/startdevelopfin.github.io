@@ -88,7 +88,7 @@ tags: Mentorship, Community, NSSpain
 
 <p>Leading the Women Who Code Mobile community, Vui organized over three technical events every month—from study sessions and coding workshops to inspiring speaker talks. She wasn't just hosting events; she was cultivating an ecosystem. Volunteers were mentored, not just to give talks but to grow into confident speakers and leaders. Vui didn’t just lead—she lifted others, setting the stage for a vibrant, inclusive community where everyone’s contribution is valued.</p>
 
-<p>Vui is very clear about the impact Women Who Code had on her and others before it closed this April: "It helped me fulfill my dream of building the world that I want to live in. Through my involvement with WWCode, I helped women become technical speakers, leaders, maintainers, and contributors to open-source software, and software engineers. To paraphrase the mission of WWCode, I, and many others, have been empowered to excel in our technology careers.</p><br></br>
+<p>Vui is very clear about the impact Women Who Code had on her and others before it closed this April: "It helped me fulfill my dream of building the world that I want to live in. Through my involvement with WWCode, I helped women become technical speakers, leaders, maintainers, and contributors to open-source software, and software engineers. To paraphrase the mission of WWCode, I, and many others, have been empowered to excel in our technology careers."</p><br></br>
 
 <h3>Conclusion 💭</h3>
 <img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FSpecialThanks.png?alt=media&token=c84f16f3-6f45-4bc5-b425-834c82636058" alt="Special Thanks, NSSpain"/>
