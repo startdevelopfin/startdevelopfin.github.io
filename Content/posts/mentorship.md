@@ -37,7 +37,8 @@ tags: Mentorship, Community, NSSpain
 
 <p>Do you have the resources to make the mentorship productive, like development tools, books, or some meeting space? And perhaps even more importantly—what resources do you still need access to?</p><br></br>
 
-<h2>Mentorship Example Forms 💎</h2>
+<h2>Mentorship Examples 💎</h2>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FClover.png?alt=media&token=c0a4d9aa-84ed-4a93-b8e1-5ea7a7359457" alt="Clover, One Piece"/>
 
 <p>By outlining what you have and need, it becomes clear what gaps your mentor can help you fill and how they can support your learning journey. The beauty of mentorship lies in its ability to fit the goals and needs of both individuals involved. Here are three common examples:</p>
 
@@ -57,7 +58,7 @@ tags: Mentorship, Community, NSSpain
 <p>Finally, we have a more technical-focused mentorship. In this example, the mentee with two years of experience seeks to enhance their coding skills through regular, weekly one-on-one sessions. Whether learning new development tools or refining code quality, technical mentorship offers a focused environment for personal growth and skill-building.</p><br></br>
 
 <h2>Community Leaders 🏆</h2>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FClover.png?alt=media&token=c0a4d9aa-84ed-4a93-b8e1-5ea7a7359457" alt="Clover, One Piece"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FRuhaQuote.png?alt=media&token=d3ff8998-30c2-4f39-83e9-45b40ee07847" alt="Ruha Benjamin, Race After Technology"/>
 
 <p>These examples illustrate just a few of the many paths mentorship can take. Ultimately, mentorship is about impact—on both sides, building relationships, sharing knowledge, and supporting each other on the journey.
 </p><br></br>
@@ -90,7 +91,7 @@ tags: Mentorship, Community, NSSpain
 <p>Vui is very clear about the impact Women Who Code had on her and others before it closed this April: "It helped me fulfill my dream of building the world that I want to live in. Through my involvement with WWCode, I helped women become technical speakers, leaders, maintainers, and contributors to open-source software, and software engineers. To paraphrase the mission of WWCode, I, and many others, have been empowered to excel in our technology careers.</p><br></br>
 
 <h3>Conclusion 💭</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FNSSPAINTALK.png?alt=media&token=83a49be1-fe3c-47b0-b495-c6dda7cfc845" alt="Daniel Aupont, NSSpain"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/nsspain%2FSpecialThanks.png?alt=media&token=c84f16f3-6f45-4bc5-b425-834c82636058" alt="Special Thanks, NSSpain"/>
 
 <p>Leadership is hard, at every level. Think about how you can leverage your role—whether as a mentor or a mentee—to make a meaningful impact on the Swift community. How can you use your skills, knowledge, and experiences to support others, foster inclusivity, and contribute to the growth of the broader tech community? The answer may change your perspective or career.</p>
 
