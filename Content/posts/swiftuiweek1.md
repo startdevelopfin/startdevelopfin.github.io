@@ -79,7 +79,7 @@ Looking ahead to Week 2, I'll be diving into:
 
 ## What I'm Excited to Try Next 🔮
 
-I can't wait to experiment with more complex functions in my app. I'm planning to use them to create reusable components for data validation and formatting.
+I can't wait to experiment with more complex functions in my app. I'm planning to use them to create reusable components for data validation and formatting. Stay tuned!
 <br></br>
 
 ---
