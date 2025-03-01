@@ -31,7 +31,7 @@ If I had to highlight just one thing I learned from this week, it would be **Swi
 
 ## Code Spotlight 💡: Building a Temperature Converter
 
-Here's a practical example of how I'm applying what I learned this week:
+Here's a practical example of how I'm applying what I learned this week. A simple, intuitive SwiftUI app that converts temperatures between Celsius, Fahrenheit, and Kelvin. Designed with best practices in mind, this app provides a clean user interface, real-time conversion, and accessibility support.
 
 ### State Management ⚙️
   <p><img src="  https://firebasestorage.googleapis.com/v0/b/by-rule-90fbd.appspot.com/o/swiftuiweekly%2FTC1.png?alt=media&token=b9181ce8-a115-4be9-a5fa-8a052e7c94ac" alt="State Properties for Temperature Converter"/></p>
